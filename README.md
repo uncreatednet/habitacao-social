@@ -17,7 +17,7 @@
 * Fora das construtoras, uma vaga por unidade não é mais uma obrigação, para muitos moradores ter uma vaga não é indispensável
 * Afinal, com uma unidade de 50m², uma vaga ocupa 25m², ou seja, metade da área do apartamento
 * Empresas de concreto pré-moldado estão com as fábricas ociosas, e tem interesse em novas ideias
-* Em um âmbito urbano como São Paulo, se aproximar dos polos de emprego, comercio e serviços torna o terreno muito caro. A verticalização vira necessária
+* Em um âmbito urbano como São Paulo, se aproximar dos pólos de emprego, comercio e serviços torna o terreno muito caro. A verticalização vira necessária
 
 ![](Aplica%C3%A7%C3%B5es/imagens/varia%C3%A7%C3%A3o1%2002.jpg)
 
